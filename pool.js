@@ -1,3 +1,7 @@
+//-----------------------------------------------------------------------------------------------
+//    DONNEES CODEES EN DUR EN ATTENDANT LA RECUPERATION DES DONNEES SAISIES PAR L'UTILISATEUR
+//-----------------------------------------------------------------------------------------------
+
 var STATS_FILE = 'stats.json';
 var STATS;
 
@@ -14,24 +18,11 @@ var PLACES_DISPO = {
     'G': 2,
     'B': 4
 };
-var POOLERS = 10;
-var POOLERS_NAMES = [
-    'Estienne',
-    'Sam',
-    'Mat',
-    'Oli',
-    'Julien',
-    'Jeremy',
-    'Patrick',
-    'Steph',
-    'Moe',
-    'Frank',
-    'Pooler11',
-    'Pooler12',
-    'Pooler13',
-    'Pooler14',
-    'Pooler15',
-    'Pooler16'];
+
+var POOLERS_NAMES = [];
+
+//-----------------------------------------------------------------------------------------------
+
 
 // CLASSE POOLER
 function Pooler(pos) {
