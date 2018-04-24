@@ -10,19 +10,27 @@
 
 <body>
     <div class="add-pooler">
+        <h2>Liste des poolers</h2>
         <label for="new-pooler">Ajouter un pooler : </label>
         <input type="text" name="new-pooler" id="new-pooler">
         <button name="add-pooler" id="add-pooler">Ajouter</button>
     </div>
+
     <div class="poolers-list" id="poolers-list">
 
     </div>
-    <div class="players" id="players">
-        <label for="player">Choisir un joueur : </label>
-        <input type="text" name="player" id="player">
-        <select name="players-list" id="players-list" size="10">
-        </select>
 
+    <div class="players" id="players">
+        <h2>Statistiques des joueurs</h2>
+        <label for="stats-file">Choisir un fichier JSON</label>
+        <input name="stats-file" id="stats-file" type="file" accept=".json">
+        <div class="players-list" id="players-list">
+        </div>
+
+    </div>
+    
+    <div>
+        <button id="start-pool">Lancer le pool</button>
     </div>
 
 
