@@ -1,0 +1,5126 @@
+[
+    [
+        "Connor McDavid",
+        "EDM",
+        "C",
+        141
+    ],
+    [
+        "Sidney Crosby",
+        "PIT",
+        "C",
+        129
+    ],
+    [
+        "Nikita Kucherov",
+        "TBL",
+        "R",
+        127
+    ],
+    [
+        "Patrick Kane",
+        "CHI",
+        "R",
+        121
+    ],
+    [
+        "Leon Draisaitl",
+        "EDM",
+        "C",
+        113
+    ],
+    [
+        "Leon Draisaitl",
+        "EDM",
+        "R",
+        113
+    ],
+    [
+        "Mark Scheifele",
+        "WPG",
+        "C",
+        114
+    ],
+    [
+        "Jamie Benn",
+        "DAL",
+        "L",
+        113
+    ],
+    [
+        "Evgeni Malkin",
+        "PIT",
+        "C",
+        111
+    ],
+    [
+        "Tyler Seguin",
+        "DAL",
+        "C",
+        111
+    ],
+    [
+        "Tyler Seguin",
+        "DAL",
+        "R",
+        111
+    ],
+    [
+        "Vladimir Tarasenko",
+        "STL",
+        "R",
+        119
+    ],
+    [
+        "Nicklas Backstrom",
+        "WSH",
+        "C",
+        98
+    ],
+    [
+        "Johnny Gaudreau",
+        "CGY",
+        "L",
+        105
+    ],
+    [
+        "Erik Karlsson",
+        "OTT",
+        "D",
+        94
+    ],
+    [
+        "Auston Matthews",
+        "TOR",
+        "C",
+        116
+    ],
+    [
+        "John Tavares",
+        "NYI",
+        "C",
+        109
+    ],
+    [
+        "Steven Stamkos",
+        "TBL",
+        "C",
+        116
+    ],
+    [
+        "Jack Eichel",
+        "BUF",
+        "C",
+        107
+    ],
+    [
+        "Brad Marchand",
+        "BOS",
+        "L",
+        108
+    ],
+    [
+        "Patrik Laine",
+        "WPG",
+        "R",
+        113
+    ],
+    [
+        "Alex Ovechkin",
+        "WSH",
+        "L",
+        112
+    ],
+    [
+        "David Pastrnak",
+        "BOS",
+        "R",
+        105
+    ],
+    [
+        "Blake Wheeler",
+        "WPG",
+        "R",
+        96
+    ],
+    [
+        "Ryan Getzlaf",
+        "ANA",
+        "C",
+        87
+    ],
+    [
+        "Artemi Panarin",
+        "CBJ",
+        "C",
+        100
+    ],
+    [
+        "Artemi Panarin",
+        "CBJ",
+        "L",
+        100
+    ],
+    [
+        "Brent Burns",
+        "SJS",
+        "D",
+        93
+    ],
+    [
+        "Joe Pavelski",
+        "SJS",
+        "C",
+        101
+    ],
+    [
+        "Joe Pavelski",
+        "SJS",
+        "R",
+        101
+    ],
+    [
+        "Phil Kessel",
+        "PIT",
+        "R",
+        94
+    ],
+    [
+        "Evgeny Kuznetsov",
+        "WSH",
+        "C",
+        89
+    ],
+    [
+        "Ryan Johansen",
+        "NSH",
+        "C",
+        87
+    ],
+    [
+        "Mitchell Marner",
+        "TOR",
+        "C",
+        88
+    ],
+    [
+        "Mitchell Marner",
+        "TOR",
+        "R",
+        88
+    ],
+    [
+        "Aleksander Barkov",
+        "FLA",
+        "C",
+        97
+    ],
+    [
+        "Sean Monahan",
+        "CGY",
+        "C",
+        96
+    ],
+    [
+        "Max Pacioretty",
+        "MTL",
+        "L",
+        100
+    ],
+    [
+        "Nikolaj Ehlers",
+        "WPG",
+        "L",
+        93
+    ],
+    [
+        "Filip Forsberg",
+        "NSH",
+        "L",
+        99
+    ],
+    [
+        "Claude Giroux",
+        "PHI",
+        "C",
+        85
+    ],
+    [
+        "Mikael Granlund",
+        "MIN",
+        "C",
+        88
+    ],
+    [
+        "Mikael Granlund",
+        "MIN",
+        "R",
+        88
+    ],
+    [
+        "Jonathan Huberdeau",
+        "FLA",
+        "L",
+        88
+    ],
+    [
+        "Victor Hedman",
+        "TBL",
+        "D",
+        79
+    ],
+    [
+        "William Nylander",
+        "TOR",
+        "C",
+        87
+    ],
+    [
+        "William Nylander",
+        "TOR",
+        "R",
+        87
+    ],
+    [
+        "Anze Kopitar",
+        "LAK",
+        "C",
+        85
+    ],
+    [
+        "Jakub Voracek",
+        "PHI",
+        "R",
+        84
+    ],
+    [
+        "Alexander Wennberg",
+        "CBJ",
+        "C",
+        77
+    ],
+    [
+        "Taylor Hall",
+        "NJD",
+        "L",
+        89
+    ],
+    [
+        "Mike Hoffman",
+        "OTT",
+        "L",
+        90
+    ],
+    [
+        "Mike Hoffman",
+        "OTT",
+        "R",
+        90
+    ],
+    [
+        "Jeff Carter",
+        "LAK",
+        "C",
+        90
+    ],
+    [
+        "Mark Stone",
+        "OTT",
+        "R",
+        87
+    ],
+    [
+        "Jonathan Drouin",
+        "MTL",
+        "L",
+        85
+    ],
+    [
+        "Jonathan Drouin",
+        "MTL",
+        "R",
+        85
+    ],
+    [
+        "Jonathan Toews",
+        "CHI",
+        "C",
+        87
+    ],
+    [
+        "Jeff Skinner",
+        "CAR",
+        "L",
+        93
+    ],
+    [
+        "Mats Zuccarello",
+        "NYR",
+        "R",
+        80
+    ],
+    [
+        "Jake Guentzel",
+        "PIT",
+        "C",
+        89
+    ],
+    [
+        "Jake Guentzel",
+        "PIT",
+        "L",
+        89
+    ],
+    [
+        "Brayden Schenn",
+        "STL",
+        "C",
+        86
+    ],
+    [
+        "Brayden Schenn",
+        "STL",
+        "L",
+        86
+    ],
+    [
+        "Ryan O'Reilly",
+        "BUF",
+        "C",
+        82
+    ],
+    [
+        "Alexander Radulov",
+        "DAL",
+        "R",
+        81
+    ],
+    [
+        "Nathan MacKinnon",
+        "COL",
+        "C",
+        83
+    ],
+    [
+        "Jordan Eberle",
+        "NYI",
+        "R",
+        84
+    ],
+    [
+        "Jaden Schwartz",
+        "STL",
+        "L",
+        82
+    ],
+    [
+        "James van Riemsdyk",
+        "TOR",
+        "L",
+        88
+    ],
+    [
+        "Cam Atkinson",
+        "CBJ",
+        "R",
+        88
+    ],
+    [
+        "Patrice Bergeron",
+        "BOS",
+        "C",
+        81
+    ],
+    [
+        "Kyle Turris",
+        "OTT",
+        "C",
+        84
+    ],
+    [
+        "Logan Couture",
+        "SJS",
+        "C",
+        85
+    ],
+    [
+        "Vincent Trocheck",
+        "FLA",
+        "C",
+        83
+    ],
+    [
+        "Brandon Saad",
+        "CHI",
+        "L",
+        86
+    ],
+    [
+        "Alex Galchenyuk",
+        "MTL",
+        "C",
+        83
+    ],
+    [
+        "Alex Galchenyuk",
+        "MTL",
+        "L",
+        83
+    ],
+    [
+        "Henrik Zetterberg",
+        "DET",
+        "C",
+        72
+    ],
+    [
+        "Henrik Zetterberg",
+        "DET",
+        "L",
+        72
+    ],
+    [
+        "T.J. Oshie",
+        "WSH",
+        "R",
+        86
+    ],
+    [
+        "Viktor Arvidsson",
+        "NSH",
+        "L",
+        84
+    ],
+    [
+        "Viktor Arvidsson",
+        "NSH",
+        "R",
+        84
+    ],
+    [
+        "Max Domi",
+        "ARI",
+        "L",
+        77
+    ],
+    [
+        "Wayne Simmonds",
+        "PHI",
+        "R",
+        85
+    ],
+    [
+        "Corey Perry",
+        "ANA",
+        "R",
+        81
+    ],
+    [
+        "Roman Josi",
+        "NSH",
+        "D",
+        70
+    ],
+    [
+        "Nazem Kadri",
+        "TOR",
+        "C",
+        82
+    ],
+    [
+        "Eric Staal",
+        "MIN",
+        "C",
+        79
+    ],
+    [
+        "Nino Niederreiter",
+        "MIN",
+        "L",
+        80
+    ],
+    [
+        "Nino Niederreiter",
+        "MIN",
+        "R",
+        80
+    ],
+    [
+        "David Krejci",
+        "BOS",
+        "C",
+        76
+    ],
+    [
+        "Bo Horvat",
+        "VAN",
+        "C",
+        79
+    ],
+    [
+        "Charlie Coyle",
+        "MIN",
+        "C",
+        76
+    ],
+    [
+        "Charlie Coyle",
+        "MIN",
+        "R",
+        76
+    ],
+    [
+        "Mikko Koivu",
+        "MIN",
+        "C",
+        71
+    ],
+    [
+        "Kyle Palmieri",
+        "NJD",
+        "R",
+        81
+    ],
+    [
+        "Jason Spezza",
+        "DAL",
+        "C",
+        74
+    ],
+    [
+        "Jason Spezza",
+        "DAL",
+        "R",
+        74
+    ],
+    [
+        "Derek Stepan",
+        "ARI",
+        "C",
+        74
+    ],
+    [
+        "Sam Reinhart",
+        "BUF",
+        "C",
+        77
+    ],
+    [
+        "Sam Reinhart",
+        "BUF",
+        "R",
+        77
+    ],
+    [
+        "Ondrej Palat",
+        "TBL",
+        "L",
+        74
+    ],
+    [
+        "Mika Zibanejad",
+        "NYR",
+        "C",
+        76
+    ],
+    [
+        "Sebastian Aho",
+        "CAR",
+        "D",
+        80
+    ],
+    [
+        "John Klingberg",
+        "DAL",
+        "D",
+        67
+    ],
+    [
+        "Kris Letang",
+        "PIT",
+        "D",
+        65
+    ],
+    [
+        "Matthew Tkachuk",
+        "CGY",
+        "L",
+        72
+    ],
+    [
+        "Bryan Little",
+        "WPG",
+        "C",
+        77
+    ],
+    [
+        "Rickard Rakell",
+        "ANA",
+        "C",
+        83
+    ],
+    [
+        "Rickard Rakell",
+        "ANA",
+        "L",
+        83
+    ],
+    [
+        "Matt Duchene",
+        "COL",
+        "C",
+        78
+    ],
+    [
+        "Matt Duchene",
+        "COL",
+        "R",
+        78
+    ],
+    [
+        "J.T. Miller",
+        "NYR",
+        "L",
+        76
+    ],
+    [
+        "J.T. Miller",
+        "NYR",
+        "R",
+        76
+    ],
+    [
+        "Kyle Okposo",
+        "BUF",
+        "R",
+        75
+    ],
+    [
+        "Joe Thornton",
+        "SJS",
+        "C",
+        62
+    ],
+    [
+        "Chris Kreider",
+        "NYR",
+        "L",
+        79
+    ],
+    [
+        "Tyler Toffoli",
+        "LAK",
+        "C",
+        79
+    ],
+    [
+        "Tyler Toffoli",
+        "LAK",
+        "R",
+        79
+    ],
+    [
+        "Milan Lucic",
+        "EDM",
+        "L",
+        75
+    ],
+    [
+        "Tyler Johnson",
+        "TBL",
+        "C",
+        73
+    ],
+    [
+        "Anders Lee",
+        "NYI",
+        "L",
+        82
+    ],
+    [
+        "Jakob Silfverberg",
+        "ANA",
+        "R",
+        77
+    ],
+    [
+        "Kevin Hayes",
+        "NYR",
+        "C",
+        72
+    ],
+    [
+        "Kevin Hayes",
+        "NYR",
+        "R",
+        72
+    ],
+    [
+        "Marcus Johansson",
+        "NJD",
+        "L",
+        71
+    ],
+    [
+        "P.K. Subban",
+        "NSH",
+        "D",
+        63
+    ],
+    [
+        "Mikael Backlund",
+        "CGY",
+        "C",
+        72
+    ],
+    [
+        "Dougie Hamilton",
+        "CGY",
+        "D",
+        65
+    ],
+    [
+        "Dustin Byfuglien",
+        "WPG",
+        "D",
+        66
+    ],
+    [
+        "Brayden Point",
+        "TBL",
+        "C",
+        74
+    ],
+    [
+        "Brayden Point",
+        "TBL",
+        "R",
+        74
+    ],
+    [
+        "Evgeny Dadonov",
+        "FLA",
+        "R",
+        72
+    ],
+    [
+        "Vadim Shipachev",
+        "VGK",
+        "C",
+        67
+    ],
+    [
+        "Vadim Shipachev",
+        "VGK",
+        "L",
+        67
+    ],
+    [
+        "Kevin Shattenkirk",
+        "NYR",
+        "D",
+        61
+    ],
+    [
+        "Rasmus Ristolainen",
+        "BUF",
+        "D",
+        60
+    ],
+    [
+        "Nick Foligno",
+        "CBJ",
+        "L",
+        74
+    ],
+    [
+        "Nick Foligno",
+        "CBJ",
+        "R",
+        74
+    ],
+    [
+        "Oliver Ekman-Larsson",
+        "ARI",
+        "D",
+        66
+    ],
+    [
+        "Alexander Steen",
+        "STL",
+        "C",
+        67
+    ],
+    [
+        "Alexander Steen",
+        "STL",
+        "L",
+        67
+    ],
+    [
+        "Henrik Sedin",
+        "VAN",
+        "C",
+        63
+    ],
+    [
+        "Elias Lindholm",
+        "CAR",
+        "C",
+        65
+    ],
+    [
+        "Elias Lindholm",
+        "CAR",
+        "R",
+        65
+    ],
+    [
+        "Ryan Nugent-Hopkins",
+        "EDM",
+        "C",
+        69
+    ],
+    [
+        "Victor Rask",
+        "CAR",
+        "C",
+        70
+    ],
+    [
+        "Gustav Nyquist",
+        "DET",
+        "L",
+        67
+    ],
+    [
+        "Gustav Nyquist",
+        "DET",
+        "R",
+        67
+    ],
+    [
+        "Conor Sheary",
+        "PIT",
+        "L",
+        73
+    ],
+    [
+        "Conor Sheary",
+        "PIT",
+        "R",
+        73
+    ],
+    [
+        "Torey Krug",
+        "BOS",
+        "D",
+        60
+    ],
+    [
+        "Zach Werenski",
+        "CBJ",
+        "D",
+        61
+    ],
+    [
+        "Ryan Kesler",
+        "ANA",
+        "C",
+        68
+    ],
+    [
+        "Tyler Bozak",
+        "TOR",
+        "C",
+        66
+    ],
+    [
+        "Daniel Sedin",
+        "VAN",
+        "L",
+        68
+    ],
+    [
+        "Zach Parise",
+        "MIN",
+        "L",
+        71
+    ],
+    [
+        "Robby Fabbri",
+        "STL",
+        "C",
+        69
+    ],
+    [
+        "Robby Fabbri",
+        "STL",
+        "L",
+        69
+    ],
+    [
+        "Gabriel Landeskog",
+        "COL",
+        "L",
+        71
+    ],
+    [
+        "Anthony Mantha",
+        "DET",
+        "L",
+        72
+    ],
+    [
+        "Anthony Mantha",
+        "DET",
+        "R",
+        72
+    ],
+    [
+        "Tanner Pearson",
+        "LAK",
+        "L",
+        73
+    ],
+    [
+        "Tomas Tatar",
+        "DET",
+        "L",
+        72
+    ],
+    [
+        "Tomas Tatar",
+        "DET",
+        "R",
+        72
+    ],
+    [
+        "Andre Burakovsky",
+        "WSH",
+        "L",
+        67
+    ],
+    [
+        "Andre Burakovsky",
+        "WSH",
+        "R",
+        67
+    ],
+    [
+        "Tomas Hertl",
+        "SJS",
+        "C",
+        70
+    ],
+    [
+        "Tomas Hertl",
+        "SJS",
+        "L",
+        70
+    ],
+    [
+        "Justin Schultz",
+        "PIT",
+        "D",
+        58
+    ],
+    [
+        "Alex Pietrangelo",
+        "STL",
+        "D",
+        59
+    ],
+    [
+        "Drew Doughty",
+        "LAK",
+        "D",
+        59
+    ],
+    [
+        "Patric Hornqvist",
+        "PIT",
+        "R",
+        69
+    ],
+    [
+        "Teuvo Teravainen",
+        "CAR",
+        "C",
+        63
+    ],
+    [
+        "Teuvo Teravainen",
+        "CAR",
+        "L",
+        63
+    ],
+    [
+        "Duncan Keith",
+        "CHI",
+        "D",
+        54
+    ],
+    [
+        "Nick Leddy",
+        "NYI",
+        "D",
+        57
+    ],
+    [
+        "Radim Vrbata",
+        "FLA",
+        "R",
+        66
+    ],
+    [
+        "James Neal",
+        "VGK",
+        "L",
+        72
+    ],
+    [
+        "James Neal",
+        "VGK",
+        "R",
+        72
+    ],
+    [
+        "Mikko Rantanen",
+        "COL",
+        "L",
+        70
+    ],
+    [
+        "Mikko Rantanen",
+        "COL",
+        "R",
+        70
+    ],
+    [
+        "Evander Kane",
+        "BUF",
+        "L",
+        75
+    ],
+    [
+        "Ryan Strome",
+        "EDM",
+        "C",
+        65
+    ],
+    [
+        "Ryan Strome",
+        "EDM",
+        "R",
+        65
+    ],
+    [
+        "Dylan Larkin",
+        "DET",
+        "C",
+        70
+    ],
+    [
+        "Dylan Larkin",
+        "DET",
+        "R",
+        70
+    ],
+    [
+        "Seth Jones",
+        "CBJ",
+        "D",
+        59
+    ],
+    [
+        "Shayne Gostisbehere",
+        "PHI",
+        "D",
+        58
+    ],
+    [
+        "Patrick Marleau",
+        "TOR",
+        "C",
+        69
+    ],
+    [
+        "Patrick Marleau",
+        "TOR",
+        "L",
+        69
+    ],
+    [
+        "Mathieu Perreault",
+        "WPG",
+        "C",
+        61
+    ],
+    [
+        "Mathieu Perreault",
+        "WPG",
+        "L",
+        61
+    ],
+    [
+        "Adam Henrique",
+        "NJD",
+        "C",
+        69
+    ],
+    [
+        "Brock Nelson",
+        "NYI",
+        "C",
+        68
+    ],
+    [
+        "Brock Nelson",
+        "NYI",
+        "L",
+        68
+    ],
+    [
+        "Bobby Ryan",
+        "OTT",
+        "R",
+        67
+    ],
+    [
+        "Clayton Keller",
+        "ARI",
+        "C",
+        63
+    ],
+    [
+        "Clayton Keller",
+        "ARI",
+        "L",
+        63
+    ],
+    [
+        "Jonathan Marchessault",
+        "VGK",
+        "C",
+        69
+    ],
+    [
+        "Jonathan Marchessault",
+        "VGK",
+        "L",
+        69
+    ],
+    [
+        "Paul Stastny",
+        "STL",
+        "C",
+        61
+    ],
+    [
+        "David Perron",
+        "VGK",
+        "L",
+        63
+    ],
+    [
+        "David Perron",
+        "VGK",
+        "R",
+        63
+    ],
+    [
+        "Josh Bailey",
+        "NYI",
+        "L",
+        58
+    ],
+    [
+        "Josh Bailey",
+        "NYI",
+        "R",
+        58
+    ],
+    [
+        "Tyson Barrie",
+        "COL",
+        "D",
+        56
+    ],
+    [
+        "Jordan Staal",
+        "CAR",
+        "C",
+        62
+    ],
+    [
+        "Derick Brassard",
+        "OTT",
+        "C",
+        62
+    ],
+    [
+        "Jason Zucker",
+        "MIN",
+        "L",
+        66
+    ],
+    [
+        "Jason Zucker",
+        "MIN",
+        "R",
+        66
+    ],
+    [
+        "Nolan Patrick",
+        "PHI",
+        "C",
+        61
+    ],
+    [
+        "Shea Weber",
+        "MTL",
+        "D",
+        60
+    ],
+    [
+        "Keith Yandle",
+        "FLA",
+        "D",
+        50
+    ],
+    [
+        "Frans Nielsen",
+        "DET",
+        "C",
+        61
+    ],
+    [
+        "Joshua Ho-Sang",
+        "NYI",
+        "R",
+        59
+    ],
+    [
+        "John Carlson",
+        "WSH",
+        "D",
+        53
+    ],
+    [
+        "Justin Faulk",
+        "CAR",
+        "D",
+        59
+    ],
+    [
+        "Colton Parayko",
+        "STL",
+        "D",
+        52
+    ],
+    [
+        "Justin Williams",
+        "CAR",
+        "R",
+        63
+    ],
+    [
+        "Artem Anisimov",
+        "CHI",
+        "C",
+        63
+    ],
+    [
+        "Travis Konecny",
+        "PHI",
+        "C",
+        60
+    ],
+    [
+        "Travis Konecny",
+        "PHI",
+        "L",
+        60
+    ],
+    [
+        "Nico Hischier",
+        "NJD",
+        "C",
+        59
+    ],
+    [
+        "Oscar Klefbom",
+        "EDM",
+        "D",
+        54
+    ],
+    [
+        "Jake Gardiner",
+        "TOR",
+        "D",
+        51
+    ],
+    [
+        "Travis Zajac",
+        "NJD",
+        "C",
+        55
+    ],
+    [
+        "Rick Nash",
+        "NYR",
+        "L",
+        64
+    ],
+    [
+        "Rick Nash",
+        "NYR",
+        "R",
+        64
+    ],
+    [
+        "Michael Frolik",
+        "CGY",
+        "R",
+        58
+    ],
+    [
+        "Jason Pominville",
+        "BUF",
+        "R",
+        55
+    ],
+    [
+        "Christian Dvorak",
+        "ARI",
+        "C",
+        60
+    ],
+    [
+        "Brandon Dubinsky",
+        "CBJ",
+        "C",
+        55
+    ],
+    [
+        "Nick Schmaltz",
+        "CHI",
+        "C",
+        54
+    ],
+    [
+        "Nick Schmaltz",
+        "CHI",
+        "L",
+        54
+    ],
+    [
+        "Brock Boeser",
+        "VAN",
+        "R",
+        62
+    ],
+    [
+        "Boone Jenner",
+        "CBJ",
+        "C",
+        65
+    ],
+    [
+        "Boone Jenner",
+        "CBJ",
+        "L",
+        65
+    ],
+    [
+        "Tyson Jost",
+        "COL",
+        "C",
+        58
+    ],
+    [
+        "Sam Gagner",
+        "VAN",
+        "C",
+        56
+    ],
+    [
+        "Sam Gagner",
+        "VAN",
+        "R",
+        56
+    ],
+    [
+        "Cam Fowler",
+        "ANA",
+        "D",
+        51
+    ],
+    [
+        "Mark Giordano",
+        "CGY",
+        "D",
+        52
+    ],
+    [
+        "TJ Brodie",
+        "CGY",
+        "D",
+        48
+    ],
+    [
+        "Alex Killorn",
+        "TBL",
+        "L",
+        59
+    ],
+    [
+        "Sven Baertschi",
+        "VAN",
+        "L",
+        61
+    ],
+    [
+        "Patrick Maroon",
+        "EDM",
+        "L",
+        65
+    ],
+    [
+        "Jacob Trouba",
+        "WPG",
+        "D",
+        51
+    ],
+    [
+        "Brendan Gallagher",
+        "MTL",
+        "R",
+        58
+    ],
+    [
+        "Sean Couturier",
+        "PHI",
+        "C",
+        57
+    ],
+    [
+        "Phillip Danault",
+        "MTL",
+        "C",
+        55
+    ],
+    [
+        "Phillip Danault",
+        "MTL",
+        "L",
+        55
+    ],
+    [
+        "Oliver Bjorkstrand",
+        "CBJ",
+        "R",
+        61
+    ],
+    [
+        "Jean-Gabriel Pageau",
+        "OTT",
+        "C",
+        58
+    ],
+    [
+        "Ryan Spooner",
+        "BOS",
+        "C",
+        51
+    ],
+    [
+        "Ryan Spooner",
+        "BOS",
+        "L",
+        51
+    ],
+    [
+        "Patrick Eaves",
+        "ANA",
+        "R",
+        62
+    ],
+    [
+        "Brent Seabrook",
+        "CHI",
+        "D",
+        47
+    ],
+    [
+        "Jaromir Jagr",
+        "UFA",
+        "R",
+        55
+    ],
+    [
+        "Thomas Vanek",
+        "VAN",
+        "L",
+        56
+    ],
+    [
+        "Thomas Vanek",
+        "VAN",
+        "R",
+        56
+    ],
+    [
+        "Ryan Suter",
+        "MIN",
+        "D",
+        47
+    ],
+    [
+        "Martin Hanzal",
+        "DAL",
+        "C",
+        57
+    ],
+    [
+        "Richard Panik",
+        "CHI",
+        "L",
+        59
+    ],
+    [
+        "Richard Panik",
+        "CHI",
+        "R",
+        59
+    ],
+    [
+        "David Backes",
+        "BOS",
+        "R",
+        58
+    ],
+    [
+        "Connor Brown",
+        "TOR",
+        "R",
+        59
+    ],
+    [
+        "Pavel Buchnevich",
+        "NYR",
+        "L",
+        56
+    ],
+    [
+        "Pavel Buchnevich",
+        "NYR",
+        "R",
+        56
+    ],
+    [
+        "Vladimir Sobotka",
+        "STL",
+        "L",
+        54
+    ],
+    [
+        "Ryan McDonagh",
+        "NYR",
+        "D",
+        46
+    ],
+    [
+        "Reilly Smith",
+        "VGK",
+        "R",
+        55
+    ],
+    [
+        "Ryan Ellis",
+        "NSH",
+        "D",
+        53
+    ],
+    [
+        "Nick Bonino",
+        "NSH",
+        "C",
+        55
+    ],
+    [
+        "Loui Eriksson",
+        "VAN",
+        "L",
+        57
+    ],
+    [
+        "Loui Eriksson",
+        "VAN",
+        "R",
+        57
+    ],
+    [
+        "Sven Andrighetto",
+        "COL",
+        "L",
+        52
+    ],
+    [
+        "Sven Andrighetto",
+        "COL",
+        "R",
+        52
+    ],
+    [
+        "Andreas Athanasiou",
+        "DET",
+        "C",
+        60
+    ],
+    [
+        "Andreas Athanasiou",
+        "DET",
+        "L",
+        60
+    ],
+    [
+        "Artturi Lehkonen",
+        "MTL",
+        "L",
+        60
+    ],
+    [
+        "Sam Bennett",
+        "CGY",
+        "C",
+        58
+    ],
+    [
+        "Sam Bennett",
+        "CGY",
+        "L",
+        58
+    ],
+    [
+        "Zach Senyshyn",
+        "BOS",
+        "R",
+        61
+    ],
+    [
+        "Matt Dumba",
+        "MIN",
+        "D",
+        51
+    ],
+    [
+        "Aaron Ekblad",
+        "FLA",
+        "D",
+        52
+    ],
+    [
+        "Brady Skjei",
+        "NYR",
+        "D",
+        44
+    ],
+    [
+        "Vladislav Namestnikov",
+        "TBL",
+        "C",
+        52
+    ],
+    [
+        "Vladislav Namestnikov",
+        "TBL",
+        "L",
+        52
+    ],
+    [
+        "Patrick Sharp",
+        "CHI",
+        "L",
+        54
+    ],
+    [
+        "Patrick Sharp",
+        "CHI",
+        "R",
+        54
+    ],
+    [
+        "Joel Eriksson Ek",
+        "MIN",
+        "C",
+        54
+    ],
+    [
+        "Bryan Rust",
+        "PIT",
+        "R",
+        56
+    ],
+    [
+        "Henrik Haapala",
+        "FLA",
+        "L",
+        48
+    ],
+    [
+        "Henrik Haapala",
+        "FLA",
+        "R",
+        48
+    ],
+    [
+        "Pavel Zacha",
+        "NJD",
+        "C",
+        51
+    ],
+    [
+        "Pavel Zacha",
+        "NJD",
+        "L",
+        51
+    ],
+    [
+        "Nikita Zaitsev",
+        "TOR",
+        "D",
+        42
+    ],
+    [
+        "Michael Cammalleri",
+        "LAK",
+        "C",
+        52
+    ],
+    [
+        "Michael Cammalleri",
+        "LAK",
+        "L",
+        52
+    ],
+    [
+        "Matt Niskanen",
+        "WSH",
+        "D",
+        42
+    ],
+    [
+        "Jimmy Vesey",
+        "NYR",
+        "L",
+        56
+    ],
+    [
+        "Colin Wilson",
+        "COL",
+        "C",
+        51
+    ],
+    [
+        "Colin Wilson",
+        "COL",
+        "L",
+        51
+    ],
+    [
+        "Tobias Rieder",
+        "ARI",
+        "L",
+        54
+    ],
+    [
+        "Tobias Rieder",
+        "ARI",
+        "R",
+        54
+    ],
+    [
+        "Morgan Rielly",
+        "TOR",
+        "D",
+        45
+    ],
+    [
+        "Andrew Ladd",
+        "NYI",
+        "L",
+        57
+    ],
+    [
+        "Mike Green",
+        "DET",
+        "D",
+        47
+    ],
+    [
+        "Markus Granlund",
+        "VAN",
+        "C",
+        54
+    ],
+    [
+        "Markus Granlund",
+        "VAN",
+        "L",
+        54
+    ],
+    [
+        "Lee Stempniak",
+        "CAR",
+        "R",
+        50
+    ],
+    [
+        "Dmitry Orlov",
+        "WSH",
+        "D",
+        44
+    ],
+    [
+        "Devin Shore",
+        "DAL",
+        "C",
+        50
+    ],
+    [
+        "Devin Shore",
+        "DAL",
+        "L",
+        50
+    ],
+    [
+        "Ivan Provorov",
+        "PHI",
+        "D",
+        45
+    ],
+    [
+        "Paul Byron",
+        "MTL",
+        "L",
+        52
+    ],
+    [
+        "Paul Byron",
+        "MTL",
+        "R",
+        52
+    ],
+    [
+        "Scott Hartnell",
+        "NSH",
+        "L",
+        51
+    ],
+    [
+        "Radek Faksa",
+        "DAL",
+        "C",
+        51
+    ],
+    [
+        "Kyle Connor",
+        "WPG",
+        "L",
+        53
+    ],
+    [
+        "Ryan Hartman",
+        "CHI",
+        "L",
+        54
+    ],
+    [
+        "Mikkel Boedker",
+        "SJS",
+        "L",
+        50
+    ],
+    [
+        "Mikkel Boedker",
+        "SJS",
+        "R",
+        50
+    ],
+    [
+        "Jayce Hawryluk",
+        "FLA",
+        "C",
+        50
+    ],
+    [
+        "Kris Versteeg",
+        "CGY",
+        "L",
+        49
+    ],
+    [
+        "Kris Versteeg",
+        "CGY",
+        "R",
+        49
+    ],
+    [
+        "Alec Martinez",
+        "LAK",
+        "D",
+        44
+    ],
+    [
+        "Noah Hanifin",
+        "CAR",
+        "D",
+        41
+    ],
+    [
+        "Alex Goligoski",
+        "ARI",
+        "D",
+        41
+    ],
+    [
+        "Valtteri Filppula",
+        "PHI",
+        "C",
+        46
+    ],
+    [
+        "Brendan Perlini",
+        "ARI",
+        "L",
+        55
+    ],
+    [
+        "Jared Spurgeon",
+        "MIN",
+        "D",
+        45
+    ],
+    [
+        "Jaccob Slavin",
+        "CAR",
+        "D",
+        41
+    ],
+    [
+        "Nick Bjugstad",
+        "FLA",
+        "C",
+        51
+    ],
+    [
+        "Nick Bjugstad",
+        "FLA",
+        "R",
+        51
+    ],
+    [
+        "Anthony Duclair",
+        "ARI",
+        "L",
+        51
+    ],
+    [
+        "Anthony Duclair",
+        "ARI",
+        "R",
+        51
+    ],
+    [
+        "Nick Ritchie",
+        "ANA",
+        "L",
+        52
+    ],
+    [
+        "Jordan Weal",
+        "PHI",
+        "C",
+        50
+    ],
+    [
+        "Jordan Weal",
+        "PHI",
+        "L",
+        50
+    ],
+    [
+        "Anthony Beauvillier",
+        "NYI",
+        "C",
+        49
+    ],
+    [
+        "Anthony Beauvillier",
+        "NYI",
+        "L",
+        49
+    ],
+    [
+        "Dylan Strome",
+        "ARI",
+        "C",
+        48
+    ],
+    [
+        "Kevin Fiala",
+        "NSH",
+        "L",
+        52
+    ],
+    [
+        "Kevin Fiala",
+        "NSH",
+        "R",
+        52
+    ],
+    [
+        "Charlie McAvoy",
+        "BOS",
+        "D",
+        41
+    ],
+    [
+        "Daniel Sprong",
+        "PIT",
+        "R",
+        48
+    ],
+    [
+        "Damon Severson",
+        "NJD",
+        "D",
+        39
+    ],
+    [
+        "Jake Muzzin",
+        "LAK",
+        "D",
+        43
+    ],
+    [
+        "PA Parenteau",
+        "UFA",
+        "R",
+        49
+    ],
+    [
+        "Justin Abdelkader",
+        "DET",
+        "L",
+        47
+    ],
+    [
+        "Justin Abdelkader",
+        "DET",
+        "R",
+        47
+    ],
+    [
+        "Calle Jarnkrok",
+        "NSH",
+        "C",
+        50
+    ],
+    [
+        "Calle Jarnkrok",
+        "NSH",
+        "L",
+        50
+    ],
+    [
+        "Ryan Dzingel",
+        "OTT",
+        "L",
+        49
+    ],
+    [
+        "Zack Smith",
+        "OTT",
+        "C",
+        50
+    ],
+    [
+        "Zack Smith",
+        "OTT",
+        "L",
+        50
+    ],
+    [
+        "Andrew Cogliano",
+        "ANA",
+        "L",
+        48
+    ],
+    [
+        "Josh Anderson",
+        "CBJ",
+        "R",
+        51
+    ],
+    [
+        "Michael Grabner",
+        "NYR",
+        "L",
+        54
+    ],
+    [
+        "Michael Grabner",
+        "NYR",
+        "R",
+        54
+    ],
+    [
+        "Nikolay Goldobin",
+        "VAN",
+        "L",
+        48
+    ],
+    [
+        "Nikolay Goldobin",
+        "VAN",
+        "R",
+        48
+    ],
+    [
+        "Owen Tippett",
+        "FLA",
+        "R",
+        52
+    ],
+    [
+        "Mattias Janmark",
+        "DAL",
+        "C",
+        47
+    ],
+    [
+        "Jake DeBrusk",
+        "BOS",
+        "L",
+        43
+    ],
+    [
+        "Jussi Jokinen",
+        "FLA",
+        "L",
+        45
+    ],
+    [
+        "Brandon Sutter",
+        "VAN",
+        "C",
+        49
+    ],
+    [
+        "Brandon Sutter",
+        "VAN",
+        "R",
+        49
+    ],
+    [
+        "Derek Ryan",
+        "CAR",
+        "C",
+        46
+    ],
+    [
+        "Derek Ryan",
+        "CAR",
+        "R",
+        46
+    ],
+    [
+        "Andrew Shaw",
+        "MTL",
+        "C",
+        47
+    ],
+    [
+        "Andrew Shaw",
+        "MTL",
+        "R",
+        47
+    ],
+    [
+        "Tomas Plekanec",
+        "MTL",
+        "C",
+        44
+    ],
+    [
+        "Frank Vatrano",
+        "BOS",
+        "C",
+        51
+    ],
+    [
+        "Frank Vatrano",
+        "BOS",
+        "L",
+        51
+    ],
+    [
+        "Joonas Donskoi",
+        "SJS",
+        "L",
+        45
+    ],
+    [
+        "Joonas Donskoi",
+        "SJS",
+        "R",
+        45
+    ],
+    [
+        "Tyler Ennis",
+        "MIN",
+        "L",
+        47
+    ],
+    [
+        "Tyler Ennis",
+        "MIN",
+        "R",
+        47
+    ],
+    [
+        "Craig Smith",
+        "NSH",
+        "R",
+        49
+    ],
+    [
+        "Erik Haula",
+        "VGK",
+        "C",
+        48
+    ],
+    [
+        "Erik Haula",
+        "VGK",
+        "L",
+        48
+    ],
+    [
+        "John Hayden",
+        "CHI",
+        "L",
+        41
+    ],
+    [
+        "John Hayden",
+        "CHI",
+        "R",
+        41
+    ],
+    [
+        "Anton Rodin",
+        "VAN",
+        "R",
+        45
+    ],
+    [
+        "Sami Vatanen",
+        "ANA",
+        "D",
+        39
+    ],
+    [
+        "Mark Letestu",
+        "EDM",
+        "C",
+        46
+    ],
+    [
+        "Leo Komarov",
+        "TOR",
+        "C",
+        46
+    ],
+    [
+        "Leo Komarov",
+        "TOR",
+        "L",
+        46
+    ],
+    [
+        "Marc-Edouard Vlasic",
+        "SJS",
+        "D",
+        38
+    ],
+    [
+        "Dustin Brown",
+        "LAK",
+        "L",
+        45
+    ],
+    [
+        "Dustin Brown",
+        "LAK",
+        "R",
+        45
+    ],
+    [
+        "Chris Kunitz",
+        "TBL",
+        "L",
+        44
+    ],
+    [
+        "Drake Caggiula",
+        "EDM",
+        "C",
+        46
+    ],
+    [
+        "Drake Caggiula",
+        "EDM",
+        "L",
+        46
+    ],
+    [
+        "J.T. Compher",
+        "COL",
+        "C",
+        45
+    ],
+    [
+        "J.T. Compher",
+        "COL",
+        "L",
+        45
+    ],
+    [
+        "Carl Hagelin",
+        "PIT",
+        "L",
+        43
+    ],
+    [
+        "Jannik Hansen",
+        "SJS",
+        "L",
+        45
+    ],
+    [
+        "Jannik Hansen",
+        "SJS",
+        "R",
+        45
+    ],
+    [
+        "Benoit Pouliot",
+        "BUF",
+        "L",
+        45
+    ],
+    [
+        "Troy Brouwer",
+        "CGY",
+        "R",
+        46
+    ],
+    [
+        "Jarome Iginla",
+        "UFA",
+        "L",
+        46
+    ],
+    [
+        "Jarome Iginla",
+        "UFA",
+        "R",
+        46
+    ],
+    [
+        "Troy Stecher",
+        "VAN",
+        "D",
+        35
+    ],
+    [
+        "Brian Gionta",
+        "UFA",
+        "C",
+        43
+    ],
+    [
+        "Marian Gaborik",
+        "LAK",
+        "L",
+        47
+    ],
+    [
+        "Marian Gaborik",
+        "LAK",
+        "R",
+        47
+    ],
+    [
+        "Jakub Vrana",
+        "WSH",
+        "L",
+        45
+    ],
+    [
+        "Jakub Vrana",
+        "WSH",
+        "R",
+        45
+    ],
+    [
+        "Antoine Roussel",
+        "DAL",
+        "L",
+        44
+    ],
+    [
+        "Josh Leivo",
+        "TOR",
+        "L",
+        40
+    ],
+    [
+        "Josh Leivo",
+        "TOR",
+        "R",
+        40
+    ],
+    [
+        "Austin Czarnik",
+        "BOS",
+        "C",
+        41
+    ],
+    [
+        "Austin Czarnik",
+        "BOS",
+        "R",
+        41
+    ],
+    [
+        "Shea Theodore",
+        "VGK",
+        "D",
+        38
+    ],
+    [
+        "Ales Hemsky",
+        "MTL",
+        "R",
+        42
+    ],
+    [
+        "Brett Ritchie",
+        "DAL",
+        "R",
+        49
+    ],
+    [
+        "Kevin Labanc",
+        "SJS",
+        "L",
+        44
+    ],
+    [
+        "Kevin Labanc",
+        "SJS",
+        "R",
+        44
+    ],
+    [
+        "Oscar Lindberg",
+        "VGK",
+        "C",
+        43
+    ],
+    [
+        "Brett Connolly",
+        "WSH",
+        "L",
+        47
+    ],
+    [
+        "Brett Connolly",
+        "WSH",
+        "R",
+        47
+    ],
+    [
+        "Kenny Agostino",
+        "BOS",
+        "L",
+        43
+    ],
+    [
+        "Mathew Barzal",
+        "NYI",
+        "C",
+        40
+    ],
+    [
+        "Ivan Barbashev",
+        "STL",
+        "C",
+        43
+    ],
+    [
+        "Ivan Barbashev",
+        "STL",
+        "L",
+        43
+    ],
+    [
+        "Christian Fischer",
+        "ARI",
+        "R",
+        43
+    ],
+    [
+        "Zach Hyman",
+        "TOR",
+        "C",
+        42
+    ],
+    [
+        "Zach Hyman",
+        "TOR",
+        "L",
+        42
+    ],
+    [
+        "Nail Yakupov",
+        "COL",
+        "R",
+        44
+    ],
+    [
+        "Scott Wilson",
+        "PIT",
+        "L",
+        43
+    ],
+    [
+        "Scott Wilson",
+        "PIT",
+        "R",
+        43
+    ],
+    [
+        "Clarke MacArthur",
+        "OTT",
+        "L",
+        44
+    ],
+    [
+        "Nathan Beaulieu",
+        "BUF",
+        "D",
+        35
+    ],
+    [
+        "Antoine Vermette",
+        "ANA",
+        "C",
+        41
+    ],
+    [
+        "Adam Lowry",
+        "WPG",
+        "C",
+        44
+    ],
+    [
+        "Hampus Lindholm",
+        "ANA",
+        "D",
+        38
+    ],
+    [
+        "Micheal Ferland",
+        "CGY",
+        "L",
+        44
+    ],
+    [
+        "Micheal Ferland",
+        "CGY",
+        "R",
+        44
+    ],
+    [
+        "Joel Ward",
+        "SJS",
+        "R",
+        43
+    ],
+    [
+        "Cody Eakin",
+        "VGK",
+        "C",
+        43
+    ],
+    [
+        "William Karlsson",
+        "VGK",
+        "C",
+        39
+    ],
+    [
+        "Jason Chimera",
+        "NYI",
+        "L",
+        45
+    ],
+    [
+        "Jason Chimera",
+        "NYI",
+        "R",
+        45
+    ],
+    [
+        "Pierre-Luc Dubois",
+        "CBJ",
+        "L",
+        39
+    ],
+    [
+        "Viktor Antipin",
+        "BUF",
+        "D",
+        36
+    ],
+    [
+        "Matt Moulson",
+        "BUF",
+        "L",
+        42
+    ],
+    [
+        "Matt Moulson",
+        "BUF",
+        "R",
+        42
+    ],
+    [
+        "Dion Phaneuf",
+        "OTT",
+        "D",
+        37
+    ],
+    [
+        "Mark Streit",
+        "MTL",
+        "D",
+        35
+    ],
+    [
+        "Erik Johnson",
+        "COL",
+        "D",
+        37
+    ],
+    [
+        "Drew Stafford",
+        "NJD",
+        "L",
+        41
+    ],
+    [
+        "Drew Stafford",
+        "NJD",
+        "R",
+        41
+    ],
+    [
+        "Mattias Ekholm",
+        "NSH",
+        "D",
+        34
+    ],
+    [
+        "Carl Soderberg",
+        "COL",
+        "C",
+        39
+    ],
+    [
+        "Tyler Myers",
+        "WPG",
+        "D",
+        38
+    ],
+    [
+        "Timo Meier",
+        "SJS",
+        "L",
+        43
+    ],
+    [
+        "Timo Meier",
+        "SJS",
+        "R",
+        43
+    ],
+    [
+        "Anthony DeAngelo",
+        "NYR",
+        "D",
+        36
+    ],
+    [
+        "Patrik Berglund",
+        "STL",
+        "C",
+        42
+    ],
+    [
+        "Jonas Brodin",
+        "MIN",
+        "D",
+        33
+    ],
+    [
+        "Jori Lehtera",
+        "PHI",
+        "C",
+        36
+    ],
+    [
+        "Colton Sceviour",
+        "FLA",
+        "C",
+        40
+    ],
+    [
+        "Colton Sceviour",
+        "FLA",
+        "R",
+        40
+    ],
+    [
+        "Joel Armia",
+        "WPG",
+        "R",
+        42
+    ],
+    [
+        "Casey Cizikas",
+        "NYI",
+        "C",
+        37
+    ],
+    [
+        "Julius Honka",
+        "DAL",
+        "D",
+        35
+    ],
+    [
+        "Jesse Puljujarvi",
+        "EDM",
+        "R",
+        39
+    ],
+    [
+        "Alexandre Burrows",
+        "OTT",
+        "L",
+        41
+    ],
+    [
+        "Alexandre Burrows",
+        "OTT",
+        "R",
+        41
+    ],
+    [
+        "Lars Eller",
+        "WSH",
+        "C",
+        40
+    ],
+    [
+        "Cory Conacher",
+        "TBL",
+        "C",
+        39
+    ],
+    [
+        "David Savard",
+        "CBJ",
+        "D",
+        35
+    ],
+    [
+        "Blake Speers",
+        "NJD",
+        "C",
+        40
+    ],
+    [
+        "Blake Speers",
+        "NJD",
+        "R",
+        40
+    ],
+    [
+        "Brad Richardson",
+        "ARI",
+        "C",
+        37
+    ],
+    [
+        "Brad Richardson",
+        "ARI",
+        "R",
+        37
+    ],
+    [
+        "Andrej Sekera",
+        "EDM",
+        "D",
+        33
+    ],
+    [
+        "Jeff Petry",
+        "MTL",
+        "D",
+        34
+    ],
+    [
+        "Jason Demers",
+        "FLA",
+        "D",
+        35
+    ],
+    [
+        "Nick Holden",
+        "NYR",
+        "D",
+        35
+    ],
+    [
+        "John Quenneville",
+        "NJD",
+        "C",
+        36
+    ],
+    [
+        "John Quenneville",
+        "NJD",
+        "L",
+        36
+    ],
+    [
+        "Colin Miller",
+        "VGK",
+        "D",
+        35
+    ],
+    [
+        "Denis Malgin",
+        "FLA",
+        "C",
+        39
+    ],
+    [
+        "Denis Malgin",
+        "FLA",
+        "R",
+        39
+    ],
+    [
+        "Josh Morrissey",
+        "WPG",
+        "D",
+        34
+    ],
+    [
+        "Jared McCann",
+        "FLA",
+        "C",
+        38
+    ],
+    [
+        "Jared McCann",
+        "FLA",
+        "L",
+        38
+    ],
+    [
+        "Tyler Bertuzzi",
+        "DET",
+        "L",
+        38
+    ],
+    [
+        "Tyler Bertuzzi",
+        "DET",
+        "R",
+        38
+    ],
+    [
+        "Tanner Kero",
+        "CHI",
+        "C",
+        37
+    ],
+    [
+        "Nicholas Baptiste",
+        "BUF",
+        "R",
+        40
+    ],
+    [
+        "Yanni Gourde",
+        "TBL",
+        "C",
+        41
+    ],
+    [
+        "Brendan Leipsic",
+        "VGK",
+        "L",
+        37
+    ],
+    [
+        "Oskar Lindblom",
+        "PHI",
+        "L",
+        37
+    ],
+    [
+        "Ben Hutton",
+        "VAN",
+        "D",
+        32
+    ],
+    [
+        "Anton Stralman",
+        "TBL",
+        "D",
+        32
+    ],
+    [
+        "Miles Wood",
+        "NJD",
+        "L",
+        37
+    ],
+    [
+        "Johnny Boychuk",
+        "NYI",
+        "D",
+        33
+    ],
+    [
+        "Zdeno Chara",
+        "BOS",
+        "D",
+        34
+    ],
+    [
+        "David Desharnais",
+        "NYR",
+        "C",
+        36
+    ],
+    [
+        "Adrian Kempe",
+        "LAK",
+        "C",
+        37
+    ],
+    [
+        "Adrian Kempe",
+        "LAK",
+        "L",
+        37
+    ],
+    [
+        "Calvin de Haan",
+        "NYI",
+        "D",
+        31
+    ],
+    [
+        "Matt Read",
+        "PHI",
+        "L",
+        38
+    ],
+    [
+        "Matt Read",
+        "PHI",
+        "R",
+        38
+    ],
+    [
+        "Michael Del Zotto",
+        "VAN",
+        "D",
+        35
+    ],
+    [
+        "Brandon Montour",
+        "ANA",
+        "D",
+        33
+    ],
+    [
+        "Zack Kassian",
+        "EDM",
+        "R",
+        36
+    ],
+    [
+        "Connor Murphy",
+        "CHI",
+        "D",
+        32
+    ],
+    [
+        "Alexander Nylander",
+        "BUF",
+        "R",
+        36
+    ],
+    [
+        "Mikhail Sergachev",
+        "TBL",
+        "D",
+        30
+    ],
+    [
+        "Tyler Motte",
+        "CBJ",
+        "L",
+        39
+    ],
+    [
+        "Tyler Motte",
+        "CBJ",
+        "R",
+        39
+    ],
+    [
+        "Brandon Pirri",
+        "UFA",
+        "C",
+        35
+    ],
+    [
+        "Brandon Pirri",
+        "UFA",
+        "R",
+        35
+    ],
+    [
+        "Dennis Wideman",
+        "UFA",
+        "D",
+        32
+    ],
+    [
+        "Darren Helm",
+        "DET",
+        "C",
+        36
+    ],
+    [
+        "Alexander Edler",
+        "VAN",
+        "D",
+        31
+    ],
+    [
+        "Riley Sheahan",
+        "DET",
+        "C",
+        35
+    ],
+    [
+        "Riley Sheahan",
+        "DET",
+        "R",
+        35
+    ],
+    [
+        "Jakob Chychrun",
+        "ARI",
+        "D",
+        33
+    ],
+    [
+        "Jordan Martinook",
+        "ARI",
+        "C",
+        35
+    ],
+    [
+        "Jordan Martinook",
+        "ARI",
+        "L",
+        35
+    ],
+    [
+        "Esa Lindell",
+        "DAL",
+        "D",
+        33
+    ],
+    [
+        "Beau Bennett",
+        "STL",
+        "L",
+        34
+    ],
+    [
+        "Beau Bennett",
+        "STL",
+        "R",
+        34
+    ],
+    [
+        "Cody Ceci",
+        "OTT",
+        "D",
+        31
+    ],
+    [
+        "Chris Tierney",
+        "SJS",
+        "C",
+        36
+    ],
+    [
+        "Magnus Paajarvi",
+        "STL",
+        "L",
+        35
+    ],
+    [
+        "Magnus Paajarvi",
+        "STL",
+        "R",
+        35
+    ],
+    [
+        "Johan Larsson",
+        "BUF",
+        "C",
+        37
+    ],
+    [
+        "Ian Cole",
+        "PIT",
+        "D",
+        30
+    ],
+    [
+        "Ondrej Kase",
+        "ANA",
+        "L",
+        34
+    ],
+    [
+        "Ondrej Kase",
+        "ANA",
+        "R",
+        34
+    ],
+    [
+        "Melker Karlsson",
+        "SJS",
+        "C",
+        37
+    ],
+    [
+        "Melker Karlsson",
+        "SJS",
+        "L",
+        37
+    ],
+    [
+        "Jakob Forsbacka Karlsson",
+        "BOS",
+        "C",
+        36
+    ],
+    [
+        "Marcus Foligno",
+        "MIN",
+        "L",
+        37
+    ],
+    [
+        "Ryan Pulock",
+        "NYI",
+        "D",
+        34
+    ],
+    [
+        "Dmitrij Jaskin",
+        "STL",
+        "L",
+        34
+    ],
+    [
+        "Dmitrij Jaskin",
+        "STL",
+        "R",
+        34
+    ],
+    [
+        "Ryan Callahan",
+        "TBL",
+        "R",
+        35
+    ],
+    [
+        "Tom Wilson",
+        "WSH",
+        "R",
+        34
+    ],
+    [
+        "Nate Schmidt",
+        "VGK",
+        "D",
+        29
+    ],
+    [
+        "Adam Larsson",
+        "EDM",
+        "D",
+        30
+    ],
+    [
+        "Anton Slepyshev",
+        "EDM",
+        "L",
+        37
+    ],
+    [
+        "Anton Slepyshev",
+        "EDM",
+        "R",
+        37
+    ],
+    [
+        "Colton Sissons",
+        "NSH",
+        "C",
+        38
+    ],
+    [
+        "Colton Sissons",
+        "NSH",
+        "L",
+        38
+    ],
+    [
+        "Pontus Aberg",
+        "NSH",
+        "L",
+        38
+    ],
+    [
+        "Pontus Aberg",
+        "NSH",
+        "R",
+        38
+    ],
+    [
+        "Tom Pyatt",
+        "OTT",
+        "L",
+        36
+    ],
+    [
+        "Tom Pyatt",
+        "OTT",
+        "R",
+        36
+    ],
+    [
+        "Colin White",
+        "OTT",
+        "C",
+        33
+    ],
+    [
+        "Nic Dowd",
+        "LAK",
+        "C",
+        31
+    ],
+    [
+        "Nic Petan",
+        "WPG",
+        "C",
+        30
+    ],
+    [
+        "Nic Petan",
+        "WPG",
+        "L",
+        30
+    ],
+    [
+        "Michael Stone",
+        "CGY",
+        "D",
+        29
+    ],
+    [
+        "Trevor Daley",
+        "DET",
+        "D",
+        30
+    ],
+    [
+        "Jake McCabe",
+        "BUF",
+        "D",
+        29
+    ],
+    [
+        "John Moore",
+        "NJD",
+        "D",
+        33
+    ],
+    [
+        "Marko Dano",
+        "WPG",
+        "C",
+        33
+    ],
+    [
+        "Marko Dano",
+        "WPG",
+        "L",
+        33
+    ],
+    [
+        "Matt Beleskey",
+        "BOS",
+        "L",
+        34
+    ],
+    [
+        "Nick Cousins",
+        "ARI",
+        "C",
+        32
+    ],
+    [
+        "Nick Cousins",
+        "ARI",
+        "L",
+        32
+    ],
+    [
+        "Alex Chiasson",
+        "UFA",
+        "R",
+        35
+    ],
+    [
+        "Cal Clutterbuck",
+        "NYI",
+        "R",
+        33
+    ],
+    [
+        "Radko Gudas",
+        "PHI",
+        "D",
+        31
+    ],
+    [
+        "Travis Hamonic",
+        "CGY",
+        "D",
+        29
+    ],
+    [
+        "Michael Matheson",
+        "FLA",
+        "D",
+        32
+    ],
+    [
+        "Jake Dotchin",
+        "TBL",
+        "D",
+        26
+    ],
+    [
+        "Jesper Fast",
+        "NYR",
+        "R",
+        31
+    ],
+    [
+        "Brandon Carlo",
+        "BOS",
+        "D",
+        30
+    ],
+    [
+        "Danton Heinen",
+        "BOS",
+        "L",
+        33
+    ],
+    [
+        "Anders Bjork",
+        "BOS",
+        "L",
+        32
+    ],
+    [
+        "Luke Kunin",
+        "MIN",
+        "C",
+        37
+    ],
+    [
+        "Zach Aston-Reese",
+        "PIT",
+        "C",
+        32
+    ],
+    [
+        "Zach Aston-Reese",
+        "PIT",
+        "R",
+        32
+    ],
+    [
+        "Mark Barberio",
+        "COL",
+        "D",
+        27
+    ],
+    [
+        "Matt Benning",
+        "EDM",
+        "D",
+        28
+    ],
+    [
+        "Blake Comeau",
+        "COL",
+        "L",
+        33
+    ],
+    [
+        "Blake Comeau",
+        "COL",
+        "R",
+        33
+    ],
+    [
+        "Chris Stewart",
+        "MIN",
+        "L",
+        34
+    ],
+    [
+        "Chris Stewart",
+        "MIN",
+        "R",
+        34
+    ],
+    [
+        "Brett Pesce",
+        "CAR",
+        "D",
+        27
+    ],
+    [
+        "Jack Johnson",
+        "CBJ",
+        "D",
+        29
+    ],
+    [
+        "Jonny Brodzinski",
+        "LAK",
+        "C",
+        36
+    ],
+    [
+        "Jonny Brodzinski",
+        "LAK",
+        "R",
+        36
+    ],
+    [
+        "Brock McGinn",
+        "CAR",
+        "L",
+        34
+    ],
+    [
+        "Matt Calvert",
+        "CBJ",
+        "L",
+        34
+    ],
+    [
+        "Nick Jensen",
+        "DET",
+        "D",
+        29
+    ],
+    [
+        "Tomas Nosek",
+        "VGK",
+        "C",
+        33
+    ],
+    [
+        "Tomas Nosek",
+        "VGK",
+        "L",
+        33
+    ],
+    [
+        "Vinnie Hinostroza",
+        "CHI",
+        "C",
+        33
+    ],
+    [
+        "Vinnie Hinostroza",
+        "CHI",
+        "L",
+        33
+    ],
+    [
+        "Spencer Foo",
+        "CGY",
+        "C",
+        30
+    ],
+    [
+        "Spencer Foo",
+        "CGY",
+        "R",
+        30
+    ],
+    [
+        "Jake Bean",
+        "CAR",
+        "D",
+        28
+    ],
+    [
+        "Haydn Fleury",
+        "CAR",
+        "D",
+        26
+    ],
+    [
+        "Brian Boyle",
+        "NJD",
+        "C",
+        32
+    ],
+    [
+        "Brian Boyle",
+        "NJD",
+        "L",
+        32
+    ],
+    [
+        "Alexander Burmistrov",
+        "VAN",
+        "C",
+        29
+    ],
+    [
+        "Paul LaDue",
+        "LAK",
+        "D",
+        26
+    ],
+    [
+        "Matt Cullen",
+        "MIN",
+        "C",
+        30
+    ],
+    [
+        "Joe Colborne",
+        "COL",
+        "C",
+        32
+    ],
+    [
+        "Joe Colborne",
+        "COL",
+        "R",
+        32
+    ],
+    [
+        "Alan Quine",
+        "NYI",
+        "C",
+        30
+    ],
+    [
+        "Shane Prince",
+        "NYI",
+        "L",
+        29
+    ],
+    [
+        "Shane Prince",
+        "NYI",
+        "R",
+        29
+    ],
+    [
+        "Adam Clendening",
+        "ARI",
+        "D",
+        26
+    ],
+    [
+        "Trevor Lewis",
+        "LAK",
+        "C",
+        31
+    ],
+    [
+        "Trevor Lewis",
+        "LAK",
+        "R",
+        31
+    ],
+    [
+        "Zach Bogosian",
+        "BUF",
+        "D",
+        27
+    ],
+    [
+        "Ryan Murray",
+        "CBJ",
+        "D",
+        26
+    ],
+    [
+        "Fredrik Claesson",
+        "OTT",
+        "D",
+        28
+    ],
+    [
+        "Alex Petrovic",
+        "FLA",
+        "D",
+        25
+    ],
+    [
+        "Shawn Matthias",
+        "WPG",
+        "L",
+        32
+    ],
+    [
+        "Andrew Copp",
+        "WPG",
+        "C",
+        33
+    ],
+    [
+        "Andrew Copp",
+        "WPG",
+        "L",
+        33
+    ],
+    [
+        "Matt Nieto",
+        "COL",
+        "L",
+        32
+    ],
+    [
+        "Matt Nieto",
+        "COL",
+        "R",
+        32
+    ],
+    [
+        "Darnell Nurse",
+        "EDM",
+        "D",
+        29
+    ],
+    [
+        "Paul Martin",
+        "SJS",
+        "D",
+        26
+    ],
+    [
+        "Thomas Chabot",
+        "OTT",
+        "D",
+        27
+    ],
+    [
+        "Daniel Winnik",
+        "UFA",
+        "L",
+        28
+    ],
+    [
+        "Cody Glass",
+        "VGK",
+        "C",
+        28
+    ],
+    [
+        "Jake Walman",
+        "STL",
+        "D",
+        28
+    ],
+    [
+        "Niklas Kronwall",
+        "DET",
+        "D",
+        25
+    ],
+    [
+        "Brian Dumoulin",
+        "PIT",
+        "D",
+        23
+    ],
+    [
+        "Thomas Hickey",
+        "NYI",
+        "D",
+        25
+    ],
+    [
+        "Francois Beauchemin",
+        "ANA",
+        "D",
+        27
+    ],
+    [
+        "Jamie McGinn",
+        "ARI",
+        "L",
+        31
+    ],
+    [
+        "Jamie McGinn",
+        "ARI",
+        "R",
+        31
+    ],
+    [
+        "Nikolay Kulemin",
+        "NYI",
+        "L",
+        30
+    ],
+    [
+        "Nikolay Kulemin",
+        "NYI",
+        "R",
+        30
+    ],
+    [
+        "Cody Franson",
+        "UFA",
+        "D",
+        25
+    ],
+    [
+        "Reid Boucher",
+        "VAN",
+        "C",
+        31
+    ],
+    [
+        "Reid Boucher",
+        "VAN",
+        "L",
+        31
+    ],
+    [
+        "Phillip Di Giuseppe",
+        "CAR",
+        "L",
+        26
+    ],
+    [
+        "Phillip Di Giuseppe",
+        "CAR",
+        "R",
+        26
+    ],
+    [
+        "Jordan Schmaltz",
+        "STL",
+        "D",
+        24
+    ],
+    [
+        "Scott Mayfield",
+        "NYI",
+        "D",
+        26
+    ],
+    [
+        "Zemgus Girgensons",
+        "BUF",
+        "C",
+        30
+    ],
+    [
+        "Zemgus Girgensons",
+        "BUF",
+        "L",
+        30
+    ],
+    [
+        "Riley Nash",
+        "BOS",
+        "C",
+        30
+    ],
+    [
+        "Riley Nash",
+        "BOS",
+        "R",
+        30
+    ],
+    [
+        "Jay Beagle",
+        "WSH",
+        "C",
+        30
+    ],
+    [
+        "Jay Beagle",
+        "WSH",
+        "R",
+        30
+    ],
+    [
+        "Olli Maatta",
+        "PIT",
+        "D",
+        26
+    ],
+    [
+        "Niklas Hjalmarsson",
+        "ARI",
+        "D",
+        25
+    ],
+    [
+        "Trevor van Riemsdyk",
+        "CAR",
+        "D",
+        26
+    ],
+    [
+        "Austin Watson",
+        "NSH",
+        "L",
+        29
+    ],
+    [
+        "Austin Watson",
+        "NSH",
+        "R",
+        29
+    ],
+    [
+        "Curtis Lazar",
+        "CGY",
+        "C",
+        28
+    ],
+    [
+        "Curtis Lazar",
+        "CGY",
+        "R",
+        28
+    ],
+    [
+        "Scott Laughton",
+        "PHI",
+        "C",
+        31
+    ],
+    [
+        "Scott Laughton",
+        "PHI",
+        "L",
+        31
+    ],
+    [
+        "Joel Edmundson",
+        "STL",
+        "D",
+        25
+    ],
+    [
+        "Michael Raffl",
+        "PHI",
+        "L",
+        32
+    ],
+    [
+        "Michael Raffl",
+        "PHI",
+        "R",
+        32
+    ],
+    [
+        "Travis Sanheim",
+        "PHI",
+        "D",
+        24
+    ],
+    [
+        "Philippe Myers",
+        "PHI",
+        "D",
+        26
+    ],
+    [
+        "David Schlemko",
+        "MTL",
+        "D",
+        23
+    ],
+    [
+        "Dale Weise",
+        "PHI",
+        "L",
+        29
+    ],
+    [
+        "Dale Weise",
+        "PHI",
+        "R",
+        29
+    ],
+    [
+        "Jacob Josefson",
+        "BUF",
+        "C",
+        25
+    ],
+    [
+        "Kris Russell",
+        "EDM",
+        "D",
+        23
+    ],
+    [
+        "Peter Holland",
+        "MTL",
+        "C",
+        29
+    ],
+    [
+        "Derek Dorsett",
+        "VAN",
+        "R",
+        27
+    ],
+    [
+        "Carter Rowney",
+        "PIT",
+        "C",
+        28
+    ],
+    [
+        "Carter Rowney",
+        "PIT",
+        "R",
+        28
+    ],
+    [
+        "Chandler Stephenson",
+        "WSH",
+        "C",
+        25
+    ],
+    [
+        "Stefan Noesen",
+        "NJD",
+        "R",
+        32
+    ],
+    [
+        "Lukas Sedlak",
+        "CBJ",
+        "C",
+        29
+    ],
+    [
+        "Joakim Nordstrom",
+        "CAR",
+        "L",
+        29
+    ],
+    [
+        "Marcus Kruger",
+        "CAR",
+        "C",
+        27
+    ],
+    [
+        "Mark Pysyk",
+        "FLA",
+        "D",
+        24
+    ],
+    [
+        "Sonny Milano",
+        "CBJ",
+        "L",
+        28
+    ],
+    [
+        "Jordan Schroeder",
+        "CBJ",
+        "C",
+        27
+    ],
+    [
+        "Jordan Schroeder",
+        "CBJ",
+        "R",
+        27
+    ],
+    [
+        "Nick Lappin",
+        "NJD",
+        "R",
+        30
+    ],
+    [
+        "Adam Pelech",
+        "NYI",
+        "D",
+        23
+    ],
+    [
+        "Lauri Korpikoski",
+        "UFA",
+        "L",
+        29
+    ],
+    [
+        "Zach Sanford",
+        "STL",
+        "C",
+        29
+    ],
+    [
+        "Zach Sanford",
+        "STL",
+        "L",
+        29
+    ],
+    [
+        "Kasperi Kapanen",
+        "TOR",
+        "R",
+        28
+    ],
+    [
+        "Andrei Mironov",
+        "COL",
+        "D",
+        23
+    ],
+    [
+        "Miro Aaltonen",
+        "TOR",
+        "L",
+        27
+    ],
+    [
+        "Devante Smith-Pelly",
+        "WSH",
+        "R",
+        28
+    ],
+    [
+        "Nikita Zadorov",
+        "COL",
+        "D",
+        23
+    ],
+    [
+        "Charles Hudon",
+        "MTL",
+        "L",
+        27
+    ],
+    [
+        "Andrew MacDonald",
+        "PHI",
+        "D",
+        21
+    ],
+    [
+        "Marco Scandella",
+        "BUF",
+        "D",
+        25
+    ],
+    [
+        "Marcus Sorensen",
+        "SJS",
+        "L",
+        26
+    ],
+    [
+        "Marcus Sorensen",
+        "SJS",
+        "R",
+        26
+    ],
+    [
+        "Derek Forbort",
+        "LAK",
+        "D",
+        22
+    ],
+    [
+        "Xavier Ouellet",
+        "DET",
+        "D",
+        23
+    ],
+    [
+        "Evgeny Svechnikov",
+        "DET",
+        "R",
+        27
+    ],
+    [
+        "Justin Bailey",
+        "BUF",
+        "L",
+        29
+    ],
+    [
+        "Justin Bailey",
+        "BUF",
+        "R",
+        29
+    ],
+    [
+        "Tom Kuhnhackl",
+        "PIT",
+        "L",
+        25
+    ],
+    [
+        "Tom Kuhnhackl",
+        "PIT",
+        "R",
+        25
+    ],
+    [
+        "Andrej Sustr",
+        "TBL",
+        "D",
+        22
+    ],
+    [
+        "Jan Rutta",
+        "CHI",
+        "D",
+        22
+    ],
+    [
+        "Michael McLeod",
+        "NJD",
+        "C",
+        24
+    ],
+    [
+        "Toby Enstrom",
+        "WPG",
+        "D",
+        22
+    ],
+    [
+        "Andy Greene",
+        "NJD",
+        "D",
+        22
+    ],
+    [
+        "Luke Glendening",
+        "DET",
+        "C",
+        24
+    ],
+    [
+        "Luke Glendening",
+        "DET",
+        "R",
+        24
+    ],
+    [
+        "Jay Bouwmeester",
+        "STL",
+        "D",
+        21
+    ],
+    [
+        "Connor Carrick",
+        "TOR",
+        "D",
+        23
+    ],
+    [
+        "Josh Jooris",
+        "CAR",
+        "C",
+        25
+    ],
+    [
+        "Josh Jooris",
+        "CAR",
+        "R",
+        25
+    ],
+    [
+        "Tim Schaller",
+        "BOS",
+        "C",
+        26
+    ],
+    [
+        "Tim Schaller",
+        "BOS",
+        "L",
+        26
+    ],
+    [
+        "Curtis McKenzie",
+        "DAL",
+        "L",
+        26
+    ],
+    [
+        "Christopher Tanev",
+        "VAN",
+        "D",
+        22
+    ],
+    [
+        "Matt Stajan",
+        "CGY",
+        "C",
+        24
+    ],
+    [
+        "Hudson Fasching",
+        "BUF",
+        "R",
+        24
+    ],
+    [
+        "Josh Manson",
+        "ANA",
+        "D",
+        23
+    ],
+    [
+        "Dylan DeMelo",
+        "SJS",
+        "D",
+        22
+    ],
+    [
+        "Justin Braun",
+        "SJS",
+        "D",
+        21
+    ],
+    [
+        "Teemu Pulkkinen",
+        "VGK",
+        "L",
+        27
+    ],
+    [
+        "Teemu Pulkkinen",
+        "VGK",
+        "R",
+        27
+    ],
+    [
+        "Slater Koekkoek",
+        "TBL",
+        "D",
+        20
+    ],
+    [
+        "Nick Shore",
+        "LAK",
+        "C",
+        23
+    ],
+    [
+        "Brendan Gaunce",
+        "VAN",
+        "C",
+        21
+    ],
+    [
+        "Brendan Gaunce",
+        "VAN",
+        "L",
+        21
+    ],
+    [
+        "Jakub Jerabek",
+        "MTL",
+        "D",
+        19
+    ],
+    [
+        "Miro Heiskanen",
+        "DAL",
+        "D",
+        21
+    ],
+    [
+        "Dmitry Kulikov",
+        "WPG",
+        "D",
+        20
+    ],
+    [
+        "Jordie Benn",
+        "MTL",
+        "D",
+        20
+    ],
+    [
+        "Cedric Paquette",
+        "TBL",
+        "C",
+        26
+    ],
+    [
+        "Cedric Paquette",
+        "TBL",
+        "L",
+        26
+    ],
+    [
+        "Matt Hunwick",
+        "PIT",
+        "D",
+        19
+    ],
+    [
+        "Kevan Miller",
+        "BOS",
+        "D",
+        21
+    ],
+    [
+        "Martin Marincin",
+        "TOR",
+        "D",
+        19
+    ],
+    [
+        "Dan Girardi",
+        "TBL",
+        "D",
+        20
+    ],
+    [
+        "Ron Hainsey",
+        "TOR",
+        "D",
+        21
+    ],
+    [
+        "Danny DeKeyser",
+        "DET",
+        "D",
+        21
+    ],
+    [
+        "William Carrier",
+        "VGK",
+        "L",
+        23
+    ],
+    [
+        "William Carrier",
+        "VGK",
+        "R",
+        23
+    ],
+    [
+        "Dennis Seidenberg",
+        "NYI",
+        "D",
+        20
+    ],
+    [
+        "Adam Erne",
+        "TBL",
+        "L",
+        26
+    ],
+    [
+        "Joseph Blandisi",
+        "NJD",
+        "C",
+        21
+    ],
+    [
+        "Joseph Blandisi",
+        "NJD",
+        "L",
+        21
+    ],
+    [
+        "Brendan Smith",
+        "NYR",
+        "D",
+        20
+    ],
+    [
+        "Stephen Johns",
+        "DAL",
+        "D",
+        21
+    ],
+    [
+        "Evan Rodrigues",
+        "BUF",
+        "C",
+        21
+    ],
+    [
+        "Evan Rodrigues",
+        "BUF",
+        "L",
+        21
+    ],
+    [
+        "Gustav Olofsson",
+        "MIN",
+        "D",
+        18
+    ],
+    [
+        "Kyle Clifford",
+        "LAK",
+        "L",
+        23
+    ],
+    [
+        "Kyle Clifford",
+        "LAK",
+        "R",
+        23
+    ],
+    [
+        "Tommy Wingels",
+        "CHI",
+        "C",
+        22
+    ],
+    [
+        "Tommy Wingels",
+        "CHI",
+        "R",
+        22
+    ],
+    [
+        "Torrey Mitchell",
+        "MTL",
+        "C",
+        23
+    ],
+    [
+        "Torrey Mitchell",
+        "MTL",
+        "R",
+        23
+    ],
+    [
+        "Dominic Moore",
+        "TOR",
+        "C",
+        22
+    ],
+    [
+        "Frederick Gaudreau",
+        "NSH",
+        "C",
+        20
+    ],
+    [
+        "Frederick Gaudreau",
+        "NSH",
+        "L",
+        20
+    ],
+    [
+        "Remi Elie",
+        "DAL",
+        "L",
+        22
+    ],
+    [
+        "Jimmy Hayes",
+        "UFA",
+        "R",
+        25
+    ],
+    [
+        "Michael McCarron",
+        "MTL",
+        "C",
+        22
+    ],
+    [
+        "Michael McCarron",
+        "MTL",
+        "R",
+        22
+    ],
+    [
+        "Chris Wideman",
+        "OTT",
+        "D",
+        19
+    ],
+    [
+        "Dan Hamhuis",
+        "DAL",
+        "D",
+        18
+    ],
+    [
+        "Steven Santini",
+        "NJD",
+        "D",
+        19
+    ],
+    [
+        "Karl Alzner",
+        "MTL",
+        "D",
+        19
+    ],
+    [
+        "Erik Gudbranson",
+        "VAN",
+        "D",
+        18
+    ],
+    [
+        "Brooks Orpik",
+        "WSH",
+        "D",
+        17
+    ],
+    [
+        "Daniel Carr",
+        "MTL",
+        "L",
+        21
+    ],
+    [
+        "Matt Irwin",
+        "NSH",
+        "D",
+        18
+    ],
+    [
+        "Ryan Carpenter",
+        "SJS",
+        "C",
+        22
+    ],
+    [
+        "Alex Tuch",
+        "VGK",
+        "R",
+        21
+    ],
+    [
+        "Jon Merrill",
+        "VGK",
+        "D",
+        17
+    ],
+    [
+        "Tim Heed",
+        "SJS",
+        "D",
+        19
+    ],
+    [
+        "Cam Talbot",
+        "EDM",
+        "G",
+        132
+    ],
+    [
+        "Braden Holtby",
+        "WSH",
+        "G",
+        125
+    ],
+    [
+        "Matt Murray",
+        "PIT",
+        "G",
+        124
+    ],
+    [
+        "Carey Price",
+        "MTL",
+        "G",
+        121
+    ],
+    [
+        "Devan Dubnyk",
+        "MIN",
+        "G",
+        121
+    ],
+    [
+        "Sergei Bobrovsky",
+        "CBJ",
+        "G",
+        118
+    ],
+    [
+        "Tuukka Rask",
+        "BOS",
+        "G",
+        114
+    ],
+    [
+        "Frederik Andersen",
+        "TOR",
+        "G",
+        113
+    ],
+    [
+        "Jake Allen",
+        "STL",
+        "G",
+        112
+    ],
+    [
+        "Andrei Vasilevskiy",
+        "TBL",
+        "G",
+        110
+    ],
+    [
+        "Martin Jones",
+        "SJS",
+        "G",
+        107
+    ],
+    [
+        "Jonathan Quick",
+        "LAK",
+        "G",
+        106
+    ],
+    [
+        "Henrik Lundqvist",
+        "NYR",
+        "G",
+        107
+    ],
+    [
+        "Corey Crawford",
+        "CHI",
+        "G",
+        104
+    ],
+    [
+        "Pekka Rinne",
+        "NSH",
+        "G",
+        104
+    ],
+    [
+        "Ben Bishop",
+        "DAL",
+        "G",
+        101
+    ],
+    [
+        "John Gibson",
+        "ANA",
+        "G",
+        102
+    ],
+    [
+        "Mike Smith",
+        "CGY",
+        "G",
+        101
+    ],
+    [
+        "Scott Darling",
+        "CAR",
+        "G",
+        92
+    ],
+    [
+        "Craig Anderson",
+        "OTT",
+        "G",
+        86
+    ],
+    [
+        "Robin Lehner",
+        "BUF",
+        "G",
+        87
+    ],
+    [
+        "Cory Schneider",
+        "NJD",
+        "G",
+        81
+    ],
+    [
+        "Antti Raanta",
+        "ARI",
+        "G",
+        78
+    ],
+    [
+        "Steve Mason",
+        "WPG",
+        "G",
+        76
+    ],
+    [
+        "Brian Elliott",
+        "PHI",
+        "G",
+        75
+    ],
+    [
+        "Thomas Greiss",
+        "NYI",
+        "G",
+        73
+    ],
+    [
+        "James Reimer",
+        "FLA",
+        "G",
+        63
+    ],
+    [
+        "Semyon Varlamov",
+        "COL",
+        "G",
+        64
+    ],
+    [
+        "Roberto Luongo",
+        "FLA",
+        "G",
+        64
+    ],
+    [
+        "Marc-Andre Fleury",
+        "VGK",
+        "G",
+        64
+    ],
+    [
+        "Jaroslav Halak",
+        "NYI",
+        "G",
+        63
+    ],
+    [
+        "Connor Hellebuyck",
+        "WPG",
+        "G",
+        58
+    ],
+    [
+        "Jacob Markstrom",
+        "VAN",
+        "G",
+        58
+    ],
+    [
+        "Mike Condon",
+        "OTT",
+        "G",
+        57
+    ],
+    [
+        "Jimmy Howard",
+        "DET",
+        "G",
+        55
+    ],
+    [
+        "Petr Mrazek",
+        "DET",
+        "G",
+        55
+    ],
+    [
+        "Michal Neuvirth",
+        "PHI",
+        "G",
+        53
+    ],
+    [
+        "Ryan Miller",
+        "ANA",
+        "G",
+        52
+    ],
+    [
+        "Michael Hutchinson",
+        "WPG",
+        "G",
+        47
+    ],
+    [
+        "Juuse Saros",
+        "NSH",
+        "G",
+        43
+    ],
+    [
+        "Peter Budaj",
+        "TBL",
+        "G",
+        44
+    ],
+    [
+        "Anders Nilsson",
+        "VAN",
+        "G",
+        43
+    ],
+    [
+        "Eddie Lack",
+        "CGY",
+        "G",
+        44
+    ],
+    [
+        "Cam Ward",
+        "CAR",
+        "G",
+        41
+    ],
+    [
+        "Jonathan Bernier",
+        "COL",
+        "G",
+        41
+    ],
+    [
+        "Kari Lehtonen",
+        "DAL",
+        "G",
+        38
+    ],
+    [
+        "Carter Hutton",
+        "STL",
+        "G",
+        37
+    ],
+    [
+        "Philipp Grubauer",
+        "WSH",
+        "G",
+        37
+    ],
+    [
+        "Ondrej Pavelec",
+        "NYR",
+        "G",
+        38
+    ],
+    [
+        "Chad Johnson",
+        "BUF",
+        "G",
+        38
+    ],
+    [
+        "Antti Niemi",
+        "PIT",
+        "G",
+        35
+    ],
+    [
+        "Louis Domingue",
+        "ARI",
+        "G",
+        35
+    ],
+    [
+        "Joonas Korpisalo",
+        "CBJ",
+        "G",
+        32
+    ],
+    [
+        "Aaron Dell",
+        "SJS",
+        "G",
+        32
+    ],
+    [
+        "Al Montoya",
+        "MTL",
+        "G",
+        29
+    ],
+    [
+        "Alex Stalock",
+        "MIN",
+        "G",
+        29
+    ],
+    [
+        "Anton Forsberg",
+        "CHI",
+        "G",
+        29
+    ],
+    [
+        "Anton Khudobin",
+        "BOS",
+        "G",
+        29
+    ],
+    [
+        "Keith Kinkaid",
+        "NJD",
+        "G",
+        26
+    ],
+    [
+        "Darcy Kuemper",
+        "LAK",
+        "G",
+        26
+    ],
+    [
+        "Calvin Pickard",
+        "VGK",
+        "G",
+        26
+    ],
+    [
+        "Curtis McElhinney",
+        "TOR",
+        "G",
+        24
+    ],
+    [
+        "Laurent Brossoit",
+        "EDM",
+        "G",
+        23
+    ],
+    [
+        "Jon Gillies",
+        "CGY",
+        "G",
+        21
+    ],
+    [
+        "Jean-Francois Berube",
+        "CHI",
+        "G",
+        15
+    ],
+    [
+        "Charlie Lindgren",
+        "MTL",
+        "G",
+        12
+    ],
+    [
+        "Tristan Jarry",
+        "PIT",
+        "G",
+        12
+    ],
+    [
+        "Malcolm Subban",
+        "BOS",
+        "G",
+        6
+    ],
+    [
+        "Linus Ullmark",
+        "BUF",
+        "G",
+        3
+    ],
+    [
+        "Jared Coreau",
+        "DET",
+        "G",
+        3
+    ],
+    [
+        "Anthony Stolarz",
+        "PHI",
+        "G",
+        3
+    ]
+]
