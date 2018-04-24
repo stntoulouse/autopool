@@ -2,13 +2,13 @@
 //    DONNEES CODEES EN DUR EN ATTENDANT LA RECUPERATION DES DONNEES SAISIES PAR L'UTILISATEUR
 //-----------------------------------------------------------------------------------------------
 
-var STATS_FILE = 'stats.json';
-var STATS;
+// var STATS_FILE = 'stats.json';
+// var STATS;
 
-// Charge la liste de stats
-loadStats(function (response) {
-    STATS = response;
-});
+// // Charge la liste de stats
+// loadStats(function (response) {
+//     STATS = response;
+// });
 
 var PLACES_DISPO = {
     'C': 3,
@@ -19,9 +19,22 @@ var PLACES_DISPO = {
     'B': 4
 };
 
-var POOLERS_NAMES = [];
+// var POOLERS_NAMES = [];
 
 //-----------------------------------------------------------------------------------------------
+
+// Recuperation des donnes saisies sur la page de parametrage
+var STATS = localStorage.getItem('players');
+var POOLERS_NAMES = localStorage.getItem('poolers');
+
+// Previent le chargement de la page sans avoir entre les parametres
+if (STATS == null || POOLERS_NAMES == null) {
+    window.open('index.html', '_self');
+} else {
+    STATS = JSON.parse(STATS);
+    POOLERS_NAMES = JSON.parse(POOLERS_NAMES);
+}
+
 
 
 // CLASSE POOLER
@@ -90,7 +103,7 @@ function Pooler(pos) {
 }
 
 // CLASSE POOL
-function Pool(nb_poolers, slots = PLACES_DISPO) {
+function Pool(nb_poolers = POOLERS_NAMES.length, slots = PLACES_DISPO) {
     this.nb_poolers = nb_poolers;
     this.poolers = [];
     this.slots = slots;

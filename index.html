@@ -6,32 +6,101 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Paramètres du pool</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-teal.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
 </head>
 
 <body>
-    <div class="add-pooler">
-        <h2>Liste des poolers</h2>
-        <label for="new-pooler">Ajouter un pooler : </label>
-        <input type="text" name="new-pooler" id="new-pooler">
-        <button name="add-pooler" id="add-pooler">Ajouter</button>
-    </div>
 
-    <div class="poolers-list" id="poolers-list">
+    <header class="w3-container w3-theme w3-padding" id="myHeader">
+        <div class="w3-center">
+            <h4>AUTOMATISATION DE LA SELECTION DES JOUEURS DANS UN POOL DE HOCKEY</h4>
+            <h1 class="w3-xxxlarge w3-animate-bottom">Paramétrage du pool</h1>
+        </div>
+    </header>
 
-    </div>
+    <div class="w3-row-padding w3-margin-top">
+        <div class="w3-third w3-margin-bottom">
+            <div class="w3-card w3-container" style="min-height:260px">
+                <div class="w3-container w3-center">
+                    <h3>POOLERS</h3>
+                    <p>Indiquez le nom des poolers dans leur ordre de draft</p>
+                    <input type="text" name="new-pooler" id="new-pooler">
+                    <a class="w3-button w3-circle w3-large w3-teal" id="add-pooler">
+                        <i class="fa fa-plus"></i>
+                    </a>
+                </div>
+                <div class="poolers-list w3-margin-top w3-margin-bottom" id="poolers-list">
+                    <!-- Les poolers apparaissent dans ce div -->
+                </div>
 
-    <div class="players" id="players">
-        <h2>Statistiques des joueurs</h2>
-        <label for="stats-file">Choisir un fichier JSON</label>
-        <input name="stats-file" id="stats-file" type="file" accept=".json">
-        <div class="players-list" id="players-list">
+            </div>
         </div>
 
+        <div class="w3-third w3-margin-bottom">
+            <div class="w3-card w3-container" style="min-height:260px">
+                <div class="w3-container w3-center">
+                    <h3>JOUEURS</h3>
+                    <p style="margin-bottom:-10px;">Selectionnez le fichier JSON des statistiques des joueurs</p>
+                    <div>
+                        <input name="stats-file" id="stats-file" type="file" accept=".json" style="opacity:0;height:0px;margin:-10px;">
+                    </div>
+                    <a class="w3-button w3-large w3-teal" id="select-file">
+                        Choisir un fichier
+                    </a>
+                </div>
+                <div class="poolers-list w3-center w3-margin-top w3-margin-bottom" id="players-list">
+                    <!-- Les joueurs apparaissent dans ce div -->
+                </div>
+            </div>
+        </div>
+
+        <div class="w3-third w3-margin-bottom">
+            <div class="w3-card w3-container" style="min-height:260px">
+                <div class="w3-container w3-full w3-center">
+                    <h3>POSITIONS</h3>
+                    <p>Indiquer les places pour chaque position</p>
+                </div>
+                <div class="w3-container w3-half w3-center">
+                    <div class="w3-container w3-margin-top">
+                        <span>Centre : </span>
+                        <input type="text" size="1" value="3" style="text-align:center;">
+                    </div>
+                    <div class="w3-container w3-margin-top">
+                        <span>Ailier droit : </span>
+                        <input type="text" size="1" value="3" style="text-align:center;">
+                    </div>
+                    <div class="w3-container w3-margin-top">
+                        <span>Ailier gauche : </span>
+                        <input type="text" size="1" value="3" style="text-align:center;">
+                    </div>
+                </div>
+                <div class="w3-container w3-half w3-center">
+                    <div class="w3-container w3-margin-top">
+                        <span>Défenseur : </span>
+                        <input type="text" size="1" value="4" style="text-align:center;">
+                    </div>
+                    <div class="w3-container w3-margin-top">
+                        <span>Gardien : </span>
+                        <input type="text" size="1" value="2" style="text-align:center;">
+                    </div>
+                    <div class="w3-container w3-margin-top">
+                        <span>Banc : </span>
+                        <input type="text" size="1" value="4" style="text-align:center;">
+                    </div>
+                </div>
+
+            </div>
+            <div class="w3-container w3-full w3-center w3-margin-top">
+                <a class="w3-button w3-xlarge w3-teal w3-disabled" id="start-pool">
+                    LANCER LE POOL
+                </a>
+            </div>
+        </div>
     </div>
-    
-    <div>
-        <button id="start-pool">Lancer le pool</button>
-    </div>
+
+
 
 
     <script src="param.js"></script>

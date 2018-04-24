@@ -22,11 +22,23 @@ function addPooler() {
         POOLERS.push(poolerName);
         let position = POOLERS.length - 1;
         insertHTML = '<div class="pooler" id="pooler-' + position + '">[' + (position + 1) + '] ' + poolerName + '</div>';
+        document.getElementById('poolers-list').innerHTML += insertHTML;
     }
-    document.getElementById('poolers-list').innerHTML += insertHTML;
+
+    activateStartButton();
 }
 
-// importation des joueurs
+// Importation des joueurs
+document.getElementById('select-file').addEventListener('click', function (event) {
+    let evt = new MouseEvent("click", {
+        bubbles: true,
+        cancelable: true,
+        view: window,
+      });
+      document.getElementById('stats-file').dispatchEvent(evt);
+
+});
+
 document.getElementById('stats-file').addEventListener('change', function(event) {
     let reader = new FileReader();
 
@@ -38,14 +50,37 @@ document.getElementById('stats-file').addEventListener('change', function(event)
         }
 
         let filecontent = evt.target.result;
-        let stats = JSON.parse(filecontent);
+        PLAYERS = JSON.parse(filecontent);
         let insertHTML = '<select size="20">';
-        for (let player of stats) {
+        for (let player of PLAYERS) {
             insertHTML += '<option>[' + player[2] + '] ' + player[0] + ' (' + player[1] + ') ' + player[3] + ' pts</option>';
         }
         insertHTML += '</select>'
         document.getElementById('players-list').innerHTML = insertHTML;
+
+        activateStartButton();
     };
 
     reader.readAsText(event.target.files[0]);
+});
+
+
+// Active le bouton si des poolers et des stats ont ete ajoute
+function activateStartButton() {
+    if (POOLERS.length > 0 && PLAYERS.length > 0) {
+        document.getElementById('start-pool').classList.remove('w3-disabled');
+    } else {
+        if (!document.getElementById('start-pool').classList.contains('w3-disabled')) {
+            document.getElementById('start-pool').classList.add('w3-disabled');
+        }
+    }
+}
+
+// Gestion du bouton pour le lancement du pool
+document.getElementById('start-pool').addEventListener('click', function (event) {
+    if (!document.getElementById('start-pool').classList.contains('w3-disabled')) {
+    localStorage.setItem('poolers', JSON.stringify(POOLERS));
+    localStorage.setItem('players', JSON.stringify(PLAYERS));
+    window.open('pool.html', '_self');
+    }
 });
