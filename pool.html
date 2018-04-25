@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,9 +11,40 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
     <script src="pool.js"></script>
 </head>
+
 <body>
-    
-    
+    <header class="w3-container w3-theme w3-padding" id="myHeader">
+        <div class="w3-center">
+            <h4>AUTOMATISATION DE LA SELECTION DES JOUEURS DANS UN POOL DE HOCKEY</h4>
+            <h1 class="w3-xxxlarge w3-animate-bottom">Draft en cours</h1>
+        </div>
+    </header>
+
+
+    <div class="w3-row-padding w3-margin-top">
+        <div class="w3-quarter w3-margin-bottom w3-padding">
+            <div class="w3-card w3-container" style="min-height:260px">
+                <div class="w3-container w3-full w3-center">
+                    <h2>Joueurs dispo</h2>
+                </div>
+                <div class="w3-container w3-full w3-center">
+                    <a class="w3-button w3-large w3-theme" id="draft-player">
+                        Drafter >>>
+                    </a>
+                </div>
+                <div class="w3-container w3-full w3-center">
+                    <h3>Meilleur choix :</h3>
+                    <span id="best-choice"></span>
+                </div>
+            </div>
+        </div>
+        <div class="w3-threequarter w3-margin-bottom" id="poolers">
+            <!-- Les details des poolers s'affichent ici -->
+        </div>
+    </div>
+
+
     <script src="interface.js"></script>
 </body>
+
 </html>

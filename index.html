@@ -16,7 +16,7 @@
     <header class="w3-container w3-theme w3-padding" id="myHeader">
         <div class="w3-center">
             <h4>AUTOMATISATION DE LA SELECTION DES JOUEURS DANS UN POOL DE HOCKEY</h4>
-            <h1 class="w3-xxxlarge w3-animate-bottom">Paramétrage du pool</h1>
+            <h1 class="w3-xxxlarge w3-animate-bottom">Paramètres du draft</h1>
         </div>
     </header>
 
@@ -27,7 +27,7 @@
                     <h3>POOLERS</h3>
                     <p>Indiquez le nom des poolers dans leur ordre de draft</p>
                     <input type="text" name="new-pooler" id="new-pooler">
-                    <a class="w3-button w3-circle w3-large w3-teal" id="add-pooler">
+                    <a class="w3-button w3-circle w3-large w3-theme" id="add-pooler">
                         <i class="fa fa-plus"></i>
                     </a>
                 </div>
@@ -46,9 +46,14 @@
                     <div>
                         <input name="stats-file" id="stats-file" type="file" accept=".json" style="opacity:0;height:0px;margin:-10px;">
                     </div>
-                    <a class="w3-button w3-large w3-teal" id="select-file">
+                    <a class="w3-button w3-large w3-theme" id="select-file">
                         Choisir un fichier
                     </a>
+                    <p>
+                    <a class="w3-button w3-xsmall w3-theme" id="select-def-file">
+                        Utiliser le fichier par défaut
+                    </a>
+                    </p>
                 </div>
                 <div class="poolers-list w3-center w3-margin-top w3-margin-bottom" id="players-list">
                     <!-- Les joueurs apparaissent dans ce div -->
@@ -65,36 +70,36 @@
                 <div class="w3-container w3-half w3-center">
                     <div class="w3-container w3-margin-top">
                         <span>Centre : </span>
-                        <input type="text" size="1" value="3" style="text-align:center;">
+                        <input type="text" size="1" id="pos-C" value="3" style="text-align:center;">
                     </div>
                     <div class="w3-container w3-margin-top">
                         <span>Ailier droit : </span>
-                        <input type="text" size="1" value="3" style="text-align:center;">
+                        <input type="text" size="1" id="pos-R" value="3" style="text-align:center;">
                     </div>
                     <div class="w3-container w3-margin-top">
                         <span>Ailier gauche : </span>
-                        <input type="text" size="1" value="3" style="text-align:center;">
+                        <input type="text" size="1" id="pos-L" value="3" style="text-align:center;">
                     </div>
                 </div>
                 <div class="w3-container w3-half w3-center">
                     <div class="w3-container w3-margin-top">
                         <span>Défenseur : </span>
-                        <input type="text" size="1" value="4" style="text-align:center;">
+                        <input type="text" size="1" id="pos-D" value="4" style="text-align:center;">
                     </div>
                     <div class="w3-container w3-margin-top">
                         <span>Gardien : </span>
-                        <input type="text" size="1" value="2" style="text-align:center;">
+                        <input type="text" size="1" id="pos-G" value="2" style="text-align:center;">
                     </div>
                     <div class="w3-container w3-margin-top">
                         <span>Banc : </span>
-                        <input type="text" size="1" value="4" style="text-align:center;">
+                        <input type="text" size="1" id="pos-B" value="4" style="text-align:center;">
                     </div>
                 </div>
 
             </div>
             <div class="w3-container w3-full w3-center w3-margin-top">
-                <a class="w3-button w3-xlarge w3-teal w3-disabled" id="start-pool">
-                    LANCER LE POOL
+                <a class="w3-button w3-xlarge w3-theme w3-disabled" id="start-pool">
+                    LANCER LE DRAFT
                 </a>
             </div>
         </div>

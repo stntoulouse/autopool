@@ -1,38 +1,15 @@
-//-----------------------------------------------------------------------------------------------
-//    DONNEES CODEES EN DUR EN ATTENDANT LA RECUPERATION DES DONNEES SAISIES PAR L'UTILISATEUR
-//-----------------------------------------------------------------------------------------------
-
-// var STATS_FILE = 'stats.json';
-// var STATS;
-
-// // Charge la liste de stats
-// loadStats(function (response) {
-//     STATS = response;
-// });
-
-var PLACES_DISPO = {
-    'C': 3,
-    'L': 3,
-    'R': 3,
-    'D': 4,
-    'G': 2,
-    'B': 4
-};
-
-// var POOLERS_NAMES = [];
-
-//-----------------------------------------------------------------------------------------------
-
 // Recuperation des donnes saisies sur la page de parametrage
 var STATS = localStorage.getItem('players');
 var POOLERS_NAMES = localStorage.getItem('poolers');
+var PLACES_DISPO = localStorage.getItem('positions');
 
 // Previent le chargement de la page sans avoir entre les parametres
-if (STATS == null || POOLERS_NAMES == null) {
+if (STATS == null || POOLERS_NAMES == null || PLACES_DISPO == null) {
     window.open('index.html', '_self');
 } else {
     STATS = JSON.parse(STATS);
     POOLERS_NAMES = JSON.parse(POOLERS_NAMES);
+    PLACES_DISPO = JSON.parse(PLACES_DISPO);
 }
 
 
